@@ -6,6 +6,7 @@ output: html_document
 ---
 
 
+
 # Loading and prepocessing the data
 
 First, read in the raw data and convert the date variable to date type.

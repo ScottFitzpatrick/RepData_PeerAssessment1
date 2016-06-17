@@ -3,6 +3,7 @@ ScottFitzpatrick
 June 16, 2016  
 
 
+
 # Loading and prepocessing the data
 
 First, read in the raw data and convert the date variable to date type.
